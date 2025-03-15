@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mirwais Musazai</h1>
 <h3 align="center">A passionate Network and Cybersecurity engineer.</h3>
 
-- 🌱 I’m currently learning **CCNP, AI**
+- 🌱 I’m currently learning **CCNA, Cybersecurity**
 
 - 👯 I’m looking to collaborate on **Cybersecurity & Network Projects**
 
