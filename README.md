@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Mirwais Musazai</h1>
 <h3 align="center">A passionate Network and Cybersecurity engineer.</h3>
 
-- 🌱 I’m currently learning **CCNA, Cybersecurity**
+- 🌱 I’m currently busy with **Ai, Cybersecurity, Networking**
 
-- 👯 I’m looking to collaborate on **Cybersecurity & Network Projects**
+- 👯 I’m looking to collaborate on **Ai, Cybersecurity & Network Projects**
 
 - 👨‍💻 All of my projects are available at [Github/mirwaismusazai](Github/mirwaismusazai)
 
