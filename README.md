@@ -12,10 +12,11 @@
 
 ---
 
-AI Engineer building **agentic AI systems and LLM applications** — the logic that lets
+AI Engineer building **agentic AI systems and LLM applications**<img width="2400" height="600" alt="banner" src="https://github.com/user-attachments/assets/5fcb0f00-691b-41fe-a7b8-34e0f220475f" />
+ the logic that lets
 models take actions, call APIs, and get real work done end to end, mostly in Python. I
 also come from a **cybersecurity background** (SOC, threat detection, network security),
-and I'm increasingly drawn to **AI security research** — where the two meet. 
+and I'm increasingly drawn to **AI security research** where the two meet. 
 
 ### 🧩 Tech
 
