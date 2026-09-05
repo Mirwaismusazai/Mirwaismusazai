@@ -1,6 +1,4 @@
-<div align="center">
 
-<img src="./banner.svg" alt="Mirwais Musazai — AI Engineer" width="100%" />
 
 <br/><br/>
 
