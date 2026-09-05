@@ -1,7 +1,4 @@
 
-
-<br/><br/>
-
 [![Email](https://img.shields.io/badge/Email-mirwaismosazai3@gmail.com-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirwaismosazai3@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-musazai01-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/musazai01)
 
